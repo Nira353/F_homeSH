@@ -1,8 +1,3 @@
-/Binaries/*/*.pdb
-/Binaries/*/*Debug*
-/Binaries/*/*.dylib
-/Binaries/*/*.modules
-/Intermediate
 Binaries
 DerivedDataCache
 Intermediate
